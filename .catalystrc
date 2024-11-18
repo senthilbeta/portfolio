@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "10606000000007123",
+      "name": "senthilnathan-portfolio",
+      "domain": {
+        "id": "50023253727",
+        "name": "senthilnathan-portfolio-60034003388.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60034003388",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
